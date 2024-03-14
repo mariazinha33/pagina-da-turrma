@@ -3,7 +3,7 @@ padding: 0;}
 
 
 header{
-    background-color: blueviolet;
+    background-color: rgb(252, 48, 48);
     color: white;
     display: flex;
     justify-content: space-around;
