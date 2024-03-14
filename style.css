@@ -8,4 +8,8 @@ header{
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
+    
+}
+.cabecalho-lista-item{
+    display: inline-block;
 }
