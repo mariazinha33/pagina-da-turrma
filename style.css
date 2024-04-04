@@ -32,6 +32,8 @@ justify-content: center;
 
 .escola-conteudo{
  width: 40%;
+ align-items: center;
+ padding: 24px 0;
 }
 
 .titulo-escola{font-size: 45px;}
