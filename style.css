@@ -46,3 +46,10 @@ padding: 20px;
  color: rgb(2, 2, 2);
 }
 
+.estudante.imagem{
+    width: 120px;
+}
+
+.estudante-icone{
+    width: 20px;
+}
