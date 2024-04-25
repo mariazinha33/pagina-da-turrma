@@ -41,8 +41,8 @@ padding: 20px;
 }
 .imagem-escola{margin: 40px;}
 
-.estudante{
- background-color:(rgb(11, 11, 216));
+.estudantes{
+ background-color:rgb(11, 11, 216);
  color: rgb(2, 2, 2);
 }
 
@@ -52,4 +52,19 @@ padding: 20px;
 
 .estudante-icone{
     width: 20px;
+}
+
+.estudante-titulo{
+    text-align: center;
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 50px 0;
+
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns:33% 33% 33% ;
 }
